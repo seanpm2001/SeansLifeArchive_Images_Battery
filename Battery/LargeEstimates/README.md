@@ -9,8 +9,18 @@ Ubuntu seems to have a common problem with these estimates when it doesn't finis
 
 ## Largest estimate
 
+![Failed to load the king of battery](/Battery/LargeEstimates/LargestEstimate2.png)
+
+The largest estimate I have gotten as of May 19th 2021 is `239 hours and 41 minutes` (`239:41`) at 100% battery to 0% this is of course highly untrue, as my laptop normally only lasts ~3.5-10.2 hours on battery while in heavy use or while idle/in low usage.
+
+## Previous recordholders
+
+### Ranking 2
+
 ![231-42BatteryEstimateInsane_April24th2021_1080p.png](/Battery/LargeEstimates/2021/231-42BatteryEstimateInsane_April24th2021_1080p.png)
 
 The largest estimate I have gotten as of April 24th 2021 is `231 hours and 42 minutes` (`231:42`) at 100% battery to 0% this is of course highly untrue, as my laptop normally only lasts ~3.5-10.2 hours on battery while in heavy use or while idle/in low usage.
+
+**Held the record for:** `24-25 days`
 
 ***
