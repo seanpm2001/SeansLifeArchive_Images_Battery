@@ -1,0 +1,9 @@
+Ubuntu 20.04 laptop battery documentation
+
+Slowly charges 1-2 percent at a time up to 90%, slowly charges onward
+99% takes over 20 minutes to go to 100%, if the ETA says 3 minutes, it just recently reached 99%. If the ETA says 4 minutes, it is about halfway done. If the ETA says 5 minutes, it is going to reach 100% battery within the next 8 minutes
+Battery can drop 2% at a time with high CPU usage
+Battery charges 2% at a time commonly, this is normal
+The system does NOT shut down at 10% battery as stated in the Ubuntu desktop guide, although it gives you a warning once it reaches 10% I only did this once though
+The battery can last months without charging if the system isn't in use and is shut down. It drops about 12% battery per 4 months in this state
+

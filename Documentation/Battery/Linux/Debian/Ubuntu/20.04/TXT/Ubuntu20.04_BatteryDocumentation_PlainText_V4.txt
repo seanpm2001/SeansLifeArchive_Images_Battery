@@ -1,0 +1,34 @@
+Ubuntu 20.04 laptop battery documentation
+
+This document goes over general documentation of my experience with battery performance and activity while using Ubuntu 20.04 on 2 different XPS 13 laptops (from 2020 July 9th to the present (Tuesday, 2021, October 26th) Please note that this range will not be updated unless the document is updated. I will still be using Ubuntu past 2021 October 26th
+
+    1) Slowly charges 1-2 percent at a time up to 90%, slowly charges onward
+    2) 99% takes over 20 minutes to go to 100%, if the ETA says 3 minutes, it just recently reached 99%. If the ETA says 4 minutes, it is about halfway done. If the ETA says 5 minutes, it is going to reach 100% battery within the next 8 minutes.
+    3) Battery can drop 2% at a time with high CPU usage. It also sometimes does this at normal CPU usage.
+    4) Battery charges 2% at a time commonly, this is normal.
+    5) The system does NOT shut down at 10% battery as stated in the Ubuntu desktop guide, although it gives you a warning once it reaches 10% I only did this once though.
+    6) The battery can last months without charging if the system isn't in use and is shut down. It drops about 12% battery per 4 months in this state.
+    7) During times of battery percentage problems, the system may get stuck at 92% battery. It will throw a ridiculously large battery percentage, and will eventually skip to 100% battery. Immediately upon unplug, it will drop to 92% battery. The issue will take 1-9 power cycles to correct. I am not sure what causes this, it may be a different outlet, it may be a general battery error/decay.
+    8) Unconfirmed observation: sometimes, laptop instability can be caused by the battery dropping to a certain percentage range, the most common one being below 19%, the less common one being 20% to 29%, and the rarest one being 30% to 34%
+    9) I have been meaning to document this for some time, I have tried really hard to in the past 3 days, and I finally got a screenshot of it. It is an extremely minuscule graphical bug. If you hover over the battery once it reaches 100% the percent sign shrinks a little. Here is what it looks like before hovering:
+        
+
+
+
+       … and then the first time you hover over it, it does this:
+       
+
+
+
+      It isn’t that important, but it has always stood out to me. I finally have it documented.
+
+This document was last updated on 2021 Tuesday, October 26th at 9:34 pm
+
+File info
+File type: OpenDocument Format (*.odt)
+File version: 4 (2021, Tuesday, October 26th at 9:34 pm)
+Page count: 2 (according to LibreOffice Writer, it may differ depending on what program you are using to read this document.)
+Article language: English (US) with basic Rich Text Formatting, a numbered list, and 2 image files
+Word count: 496
+Character count: 2,695
+
