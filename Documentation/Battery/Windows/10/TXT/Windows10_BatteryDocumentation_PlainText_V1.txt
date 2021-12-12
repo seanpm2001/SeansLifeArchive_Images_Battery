@@ -1,0 +1,51 @@
+Windows 10 laptop battery documentation
+
+This document goes over general documentation of my experience with battery performance and activity while using Windows 10 across 2+ different laptops (from 2016 <month><day> to 2020 July 8th) excluding 2 defective laptops. This data is not able to be backed up yet, and I can no longer retrieve new data, as I have not used Windows 10 since 2020 July 9th (when I switched to Ubuntu 20.04)
+
+    1) The battery saver can be enabled at 100% battery, and can last all the way down to the beginning with little tweaking (typically, you can only start it at 95% or lower automatically, but manually, you can start it at any time)
+    2) The battery can act sporadic and give ridiculous estimates, like this:
+
+
+
+
+
+
+
+
+
+
+
+
+or this:
+
+
+
+
+
+
+
+
+
+
+
+Both images came from an unstable day in 2018.
+3) I can’t remember how long it took for Windows 10 to go from 99% to 100% battery right now
+4) Windows 10 becomes extremely unstable once it reaches 25% battery, and starts dropping sporadically. It can go from 24% battery to 5% battery in just a matter of minutes
+5) Battery saver cannot be enabled when the device is plugged in
+6) Depending on the outlet power source, it is normal for the battery to suddenly rise from 95% to 100% instantly, and immediately drop to 95% battery upon unplugging
+7) No other notes
+Other important battery advice
+For Lithium Ion batteries
+    1) Lithium batteries degrade over time. Do not buy a replacement battery while your current battery is in perfect health, as the backup battery will degrade/rot in storage, then by the time you need to use it, it will not work very well/at all.
+    2) Based on general advice, it is recommended to not let your battery drop below 20% and not charge above 80% this is best for the batteries health. If you can’t follow the step of stopping every charge at 80%, you can at least plug your device in when it gets low (for example: lately, always plug mine in at 23-29% battery)
+    3) MacOS 11.0 (Big Sur) and subsequent versions (MacOS 12.0 Monterey) have a built-in feature to limit battery discharge at 20% and battery charge at 80%. I don’t know of any other operating system that forces this rule (Ubuntu says it does, but it actually doesn’t, as I have used my device with less than 11% battery before)
+This document was last updated on 2021 Saturday, December 11th at 9:54 pm
+
+File info
+File type: OpenDocument Format (*.odt)
+File version: 1 (2021, Saturday, December 11th at 9:54 pm)
+Page count: 2 (according to LibreOffice Writer, it may differ depending on what program you are using to read this document.)
+Article language: English (US) with basic Rich Text Formatting, a numbered list, and 2 image files
+Word count: 479
+Character count: 2,680
+
