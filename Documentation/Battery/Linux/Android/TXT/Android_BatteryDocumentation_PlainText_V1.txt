@@ -1,0 +1,36 @@
+Android (Operating System) battery documentation
+
+This document goes over general documentation of my experience with battery performance and activity while using various versions of Android (1.5 Cupcake to 11.0) across 8+ different “smart” cell phones (from 2008 <month><day> to 2021 December 12th) Data is not able to be backed up yet for older Android versions (7.0 and below), and I can no longer retrieve new data, as I have not used Android Nougat or below since 2019/2020.
+
+    1) Android displays a low battery notice at 15% battery, and a critically low battery notification at 5% (applies to all versions of Android)
+    2) On Android 10 and Android 11 via a Samsung Galaxy S20 FE 5G, the battery begins dropping extremely fast once reaching 5%, and can go from 4% to 1% in a matter of minutes, or a matter of seconds.
+    3) Sometimes, your Android device can still operate at 0% battery, but can’t last longer than 5 minutes, and may repeatedly restart until it refuses to turn on due to no battery life
+    4) Android displays a no battery life left warning, despite having enough battery life to display this warning
+    5) (Android 6.0, Android 7.0/7.1, Android 8.0/8.1 via a Samsung Galaxy S7 edge) the battery on this device deteriorated over 4 years.
+    6) (Android 6.0, Android 7.0/7.1, Android 8.0/8.1 via a Samsung Galaxy S7 edge) due to battery deterioration from 2016 to 2020, normal charging times went from 2.5 hours to 4+ hours and fast charging times went from 1.1 hours to 2.5+ hours (from 5 to 100%)
+    7) With a damaged battery on a Samsung Galaxy S7 edge, I had to keep the phone on while plugging it in due to Samsung malware that turned the phone on and displayed an error screen when shut down, preventing it from charging (I don’t have the exact error code right now, it was a bright teal screen with white text)
+    8) Animated wallpapers lowered the battery life significantly on a Samsung Galaxy S2
+    9) The Samsung Galaxy S2 had a battery life of less than 2 hours
+    10) The Samsung Galaxy S7 edge does NOT have an all-day battery, not even when idle. It drains in less than 4 hours, and, when idle, can’t last 23 hours or more
+    11) The Samsung Galaxy S20 FE 5G had a really good battery upon receiving it, but it unfortunately deteriorated over the course of a year, and is now half of what it was.
+    12) (Samsung Galaxy Core Prime with Android 6.0) this was my first phone with a cellular connection (SIM card) this device was really low-specked (only having 8 gigabytes of storage, 1 gigabyte of RAM, and a really cheap battery, but it was just a budget phone) this device had the ability to take the battery out and replace it when needed (something really important that modern phones don’t have) and I would replace the battery constantly. The device errored out a lot, and I had to hard cycle the device until it stopped functioning properly over 2 years (across 2 of the same device) 
+    13) No other documentation available
+Other important battery advice
+For Lithium Ion batteries
+    1) Lithium batteries degrade over time. Do not buy a replacement battery while your current battery is in perfect health, as the backup battery will degrade/rot in storage, then by the time you need to use it, it will not work very well/at all.
+    2) Based on general advice, it is recommended to not let your battery drop below 20% and not charge above 80% this is best for the batteries health. If you can’t follow the step of stopping every charge at 80%, you can at least plug your device in when it gets low (for example: lately, always plug mine in at 23-29% battery)
+    3) MacOS 11.0 (Big Sur) and subsequent versions (MacOS 12.0 Monterey) have a built-in feature to limit battery discharge at 20% and battery charge at 80%. I don’t know of any other operating system that forces this rule (Ubuntu says it does, but it actually doesn’t, as I have used my device with less than 11% battery before)
+General battery advice
+       DO NOT use your phone while it is plugged into a cable charger. Take it from me. I have destroyed the charging port on 6 different devices by using it while plugged in in less than 6 months per device. Also, be careful using a cable charger as well. I prefer wireless charging when available, and nowadays, it is mandatory for my cellular devices, as my Samsung Galaxy S20 FE 5G got a destroyed charging port in less than 4 months.
+       DO NOT hard power cycle your device UNLESS completely necessary (completely unresponsive, softlocked) (hard power cycle means holding the power button down for 10 seconds, or removing the battery while the device is running) as this damages the software running and can cause corruption.
+       No other info available at the moment
+This document was last updated on 2021 Sunday, December 12th at 3:30 pm
+
+File info
+File type: OpenDocument Format (*.odt)
+File version: 1 (2021, Sunday, December 11th at 3:30 pm)
+Page count: 3 (according to LibreOffice Writer, it may differ depending on what program you are using to read this document.)
+Article language: English (US) with basic Rich Text Formatting, a numbered list, and 2 image files
+Word count: 0,902
+Character count: 5,062
+
