@@ -1,0 +1,114 @@
+Ubuntu 20.04 laptop battery documentation
+
+This document goes over general documentation of my experience with battery performance and activity while using Ubuntu 20.04 on 2 different XPS 13 laptops (from 2020 July 9th to the present (Monday, 2021, December 13th) Please note that this range will not be updated unless the document is updated. I will still be using Ubuntu past 2021 December 13h
+This section was last updated on 2021 Monday, December 13th at 5:05 pm (V8)
+
+    1) Slowly charges 1-2 percent at a time up to 90%, slowly charges onward
+    2) 99% takes over 20 minutes to go to 100%, if the ETA says 3 minutes, it just recently reached 99%. If the ETA says 4 minutes, it is about halfway done. If the ETA says 5 minutes, it is going to reach 100% battery within the next 8 minutes. (Small update: on 2021, Friday, November 18th, the estimate said 2 minutes for the first time. It had to go through the same cycle, but it took an extra amount of time to go from 2 to 3, then 3 to 4, 4 to 5, and to completion)
+    3) Battery can drop 2% at a time with high CPU usage. It also sometimes does this at normal CPU usage.
+    4) Battery charges 2% at a time commonly, this is normal.
+    5) The system does NOT shut down at 10% battery as stated in the Ubuntu desktop guide, although it gives you a warning once it reaches 10% I only did this once though.
+    6) The battery can last months without charging if the system isn't in use and is shut down. It drops about 12% battery per 4 months in this state.
+    7) During times of battery percentage problems, the system may get stuck at 92% battery. It will throw a ridiculously large battery percentage, and will eventually skip to 100% battery. Immediately upon unplug, it will drop to 92% battery. The issue will take 1-9 power cycles to correct. I am not sure what causes this, it may be a different outlet, it may be a general battery error/decay.
+    8) Unconfirmed observation: sometimes, laptop instability can be caused by the battery dropping to a certain percentage range, the most common one being below 19%, the less common one being 20% to 29%, and the rarest one being 30% to 34%
+    9) I have been meaning to document this for some time, I have tried really hard to in the past 3 days, and I finally got a screenshot of it. It is an extremely minuscule graphical bug. If you hover over the battery once it reaches 100% the percent sign shrinks a little. Here is what it looks like before hovering:
+        
+
+
+
+       … and then the first time you hover over it, it does this:
+       
+
+
+
+      It isn’t that important, but it has always stood out to me. I finally have it documented. I have noted that this problem doesn’t occur when you hover over the battery, but any part of the title bar. 
+10) Possible glitch (2021 November 30th) the battery took extra long, and went for a 6 minute estimate, it has never done this before, although it is a minuscule detail.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11) Ubuntu says the system has low battery at 29% (the battery icon turns red) which is a pretty high amount compared to most other operating systems (iOS 4-6, Windows 10: 20%, Android: 15%)
+here is the battery at 30%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now here is the battery at 29%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12) Ubuntu battery performance vs Windows 10 battery performance: I am not able to 100% tell on this, as I have different batteries for different systems, and I don’t have a Windows 10 laptop anymore. From my research, Windows performs better, as there is dedicated drivers for improved battery life that Linux unfortunately has not received yet. This is unconfirmed, and I can’t find the source I got this from right now. Linux battery life is still pretty OK, 2-4.5 hours of battery life is good with heavy usage (it lasts over 12 hours when idle, for some reason, laptop manufacturers advertise the battery life by idle usage, and not heavy (60-100% CPU usage constantly) or moderate usage (5-59% CPU usage constantly)
+13) Something I have recently discovered: my video drivers ARE NOT DEFECTIVE. I always thought there was something wrong with my laptop, as the battery drained quickly due to 50% CPU usage when doing any form of video animation (such as playing a 720p video, or having confetti fall down the screen) I discovered this on 2021 December 11th.
+14) No other notes
+This section was last updated on 2021 Monday, December 13th at 5:05 pm (V8)
+Thesis
+Thesis currently unavailable.
+This section was last updated on 2021 Monday, December 13th at 5:05 pm (V8)
+Other important battery advice
+For Lithium Ion batteries
+    1) Lithium batteries degrade over time. Do not buy a replacement battery while your current battery is in perfect health, as the backup battery will degrade/rot in storage, then by the time you need to use it, it will not work very well/at all.
+    2) Based on general advice, it is recommended to not let your battery drop below 20% and not charge above 80% this is best for the batteries health. If you can’t follow the step of stopping every charge at 80%, you can at least plug your device in when it gets low (for example: lately, always plug mine in at 23-29% battery)
+    3) MacOS 11.0 (Big Sur) and subsequent versions (MacOS 12.0 Monterey) have a built-in feature to limit battery discharge at 20% and battery charge at 80%. I don’t know of any other operating system that forces this rule (Ubuntu says it does, but it actually doesn’t, as I have used my device with less than 11% battery before)
+This section was last updated on 2021 Monday, December 13th at 5:05 pm (V8)
+
+File info
+File type: OpenDocument Format (*.odt)
+File version: 8 (2021, Monday, December 13th at 5:05 pm)
+Page count: 4 (according to LibreOffice Writer, it may differ depending on what program you are using to read this document.)
+Article language: English (US) with basic Rich Text Formatting, a numbered list, and 5 image files in PNG format.
+Word count: 1,077
+Character count: 5,905
+This section was last updated on 2021 Monday, December 13th at 5:05 pm (V8)
+This document was last updated on 2021 Monday, December 13th at 5:05 pm (V8)
+
