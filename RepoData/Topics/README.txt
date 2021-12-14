@@ -1,0 +1,16 @@
+windows
+linux
+screenshots
+png
+battery
+wiki
+hardware
+gplv3
+images
+assembly
+stock-images
+md
+txt
+gpl3
+seanpm2001-life-archive
+git-image 
