@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2021). Battery screenshot and documentation articles image and article data for machine learning, stock imagery, and battery education and knowledge. [Data set]. https://doi.org/10.0000/00000
