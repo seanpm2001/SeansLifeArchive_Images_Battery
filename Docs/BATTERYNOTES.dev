@@ -1,0 +1,9 @@
+Battery is charging in either 1%, 2%, or 3% increments
+Battery gets stuck at 98% for a while before jumping to 100%
+Unlike Ubuntu 20.04, the battery now has a green color instead of a white color when charging. The red color is still there at 29% and below
+New difficulty: finding the screenshot via thumbnail (in dark mode) searching for a black box on a græy background, instead of a white box on a græy background
+Switched over on 2022 June 8th, images from this day are on both devices
+Some data for 2022 June 8th not uploaded yet (from XPS 13)
+Never showed the status "estimating" until 2022 June 14th, 6 days
+What is a large estimate: on XPS 13: 20 hours or higher | On System76 (device 1) 24 hours or higher
+Battery plugin response is now instant
